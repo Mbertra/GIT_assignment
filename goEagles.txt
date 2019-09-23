@@ -1,0 +1,2 @@
+Hello, this is a new file added
+To the git assignment
